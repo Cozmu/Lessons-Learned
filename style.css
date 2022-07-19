@@ -8,4 +8,11 @@ body{
 #cabecalho{
     margin-top: 0;
     background-color: green;
+    padding-bottom: 20px;
+}
+#licoes_a_aprender{
+    margin: 25px;
+}
+#licoes_aprendidas{
+    margin: 25px;
 }
