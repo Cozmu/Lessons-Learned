@@ -8,7 +8,11 @@ body{
 #cabecalho{
     margin-top: 0;
     background-color: green;
-    padding-bottom: 20px;
+   /* position: fixed; */
+}
+#titulo{
+ text-align: center;
+    
 }
 #licoes_a_aprender{
     margin: 25px;
