@@ -24,33 +24,34 @@ body {
   background-color: #eae2b7;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
+  padding-top: 10px;
 }
 
-#primeiro-bloco{
- position: relative;
- background-color: #fcbf49;
- border-radius: 5px;
- margin: 0px 10px 10px 10px ;
- width: 98.5%;
+#primeiro-bloco {
+  position: relative;
+  background-color: #fcbf49;
+  border-radius: 5px;
+  margin: 0px 10px 10px 10px;
+  width: 98.5%;
 }
 
 #imagem {
- display: inline-block;
- margin: 10px 10px 10px 10px;
+  display: inline-block;
+  margin: 10px 10px 10px 10px;
 }
 
-#minha-foto{
-border-radius: 5px;
+#minha-foto {
+  border-radius: 5px;
 }
 
-#nome{
- display: block;
- text-align: center;
- width: 100px;
+#sobre-mim {
+  display: inline-block;
+  margin-bottom: 1px;
 }
 
-#sobre-mim{
- display: block;
+#sobre-mim h1{
+ font-weight: bold;
+ font-size: 100px;
 }
 
 #titulo {
