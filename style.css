@@ -7,6 +7,7 @@ body {
   background-color: rgb(253, 251, 251);
   position: relative;
 }
+
 /*--------------------------------------*/
 #cabecalho {
   margin-top: 0px;
@@ -21,6 +22,7 @@ body {
   text-align: center;
   color: white;
 }
+
 /*--------------------------------------*/
 #tudo {
   margin-left: 3%;
@@ -62,8 +64,9 @@ body {
   line-height: 1em;
   margin-bottom: 5px;
 }
+
 /*--------------------------------------*/
-#listas{
+#listas {
   display: inline-block;
 }
 
@@ -80,17 +83,31 @@ body {
   margin-left: 10px;
   border-bottom-left-radius: 5px;
   border-top-left-radius: 5px;
-  background-color: #fcbf49;
+  background-color: #003049;
+  color: white;
+  /*margin-right: 368px; */
+  padding-right: 368px;
 }
-#aprendi h2{
- margin: 3px 3px 0px 3px;
+
+/*#aprendi h2 {
+  margin: 3px 3px 0px 3px;
 }
+
+#aprendi li {
+  margin-left: 10px;
+}*/
 
 #nao-aprendi {
   float: right;
-  margin-left: 599px;
-
+  margin-right: 10px;
+  border-bottom-right-radius: 5px;
+  border-top-right-radius: 5px;
+  background-color: #003049;
+  color: white;
+  /*margin-left: 368px;*/
+  padding-left: 368px;
 }
+
 /*--------------------------------------*/
 #rodape {
   position: relative;
