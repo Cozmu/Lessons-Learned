@@ -109,6 +109,10 @@ body {
 }
 
 /*--------------------------------------*/
+.conteudo {
+  margin-left: 15px;
+}
+
 .lado-esquerdo {
   width: 40%;
   margin-left: 10px;
@@ -135,10 +139,19 @@ body {
 }
 
 /*--------------------------------------*/
+#sessao-tabela h1 {
+  margin: 10px 0px 10px 15px;
+}
 
+#tabela {
+  margin-left: 30px;
+  display: inline-block;
+  margin-bottom: 20px;
+}
 
-
-
+table, th, td {
+  border: 1px solid black;
+}
 
 /*--------------------------------------*/
 #rodape {
@@ -147,7 +160,7 @@ body {
   color: white;
   text-align: center;
   height: 100px;
-  margin-top: 100px;
+  margin-top: 60px;
   width: 100%;
 }
 
