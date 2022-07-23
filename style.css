@@ -86,7 +86,7 @@ body {
   background-color: #003049;
   color: white;
   /*margin-right: 368px; */
-  padding-right: 368px;
+  padding-right: 297px;
 }
 
 /*#aprendi h2 {
@@ -105,28 +105,34 @@ body {
   background-color: #003049;
   color: white;
   /*margin-left: 368px;*/
-  padding-left: 368px;
+  padding-left: 298px;
 }
 
 /*--------------------------------------*/
 .lado-esquerdo {
   width: 40%;
-  height: 56.67px;
   margin-left: 10px;
-  display: inline-block;
+  margin-top: 10px;
+  float: left;
+  padding-right: 105px;
+  border-right: 1px solid black;
+  
 }
 
-.lado-direito{
+.lado-direito {
   width: 40%;
-  height: 56.67px;
   margin-right: 10px;
-  display: inline-block;
-
-
+  margin-top: 10px;
+  float: right;
+  padding-left: 115px;
+  
 }
 
-
-
+.segurador {
+  margin-top: 95px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
 
 /*--------------------------------------*/
 
