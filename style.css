@@ -109,13 +109,39 @@ body {
 }
 
 /*--------------------------------------*/
+.lado-esquerdo {
+  width: 40%;
+  height: 56.67px;
+  margin-left: 10px;
+  display: inline-block;
+}
+
+.lado-direito{
+  width: 40%;
+  height: 56.67px;
+  margin-right: 10px;
+  display: inline-block;
+
+
+}
+
+
+
+
+/*--------------------------------------*/
+
+
+
+
+
+/*--------------------------------------*/
 #rodape {
   position: relative;
   background-color: #003049;
   color: white;
   text-align: center;
   height: 100px;
-  margin-top: 60px;
+  margin-top: 100px;
   width: 100%;
 }
 
