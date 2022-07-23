@@ -75,7 +75,7 @@ body {
 }
 
 #licoes_aprendidas {
-  margin: 25px;
+  margin: 25px 25px 25px 40px;
 }
 
 #aprendi {
@@ -86,16 +86,12 @@ body {
   background-color: #003049;
   color: white;
   /*margin-right: 368px; */
-  padding-right: 297px;
+  padding-right: 287px;
 }
 
-/*#aprendi h2 {
-  margin: 3px 3px 0px 3px;
+#aprendi h2 {
+  margin: 5px;
 }
-
-#aprendi li {
-  margin-left: 10px;
-}*/
 
 #nao-aprendi {
   float: right;
@@ -105,7 +101,11 @@ body {
   background-color: #003049;
   color: white;
   /*margin-left: 368px;*/
-  padding-left: 298px;
+  padding-left: 288px;
+}
+
+#nao-aprendi h2 {
+  margin: 5px;
 }
 
 /*--------------------------------------*/
@@ -116,7 +116,7 @@ body {
   float: left;
   padding-right: 105px;
   border-right: 1px solid black;
-  
+
 }
 
 .lado-direito {
@@ -125,7 +125,7 @@ body {
   margin-top: 10px;
   float: right;
   padding-left: 115px;
-  
+
 }
 
 .segurador {
