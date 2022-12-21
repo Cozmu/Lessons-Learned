@@ -24,7 +24,7 @@
 
 ## Também disponível em :
 
-## <a href="https://lessons-learned-rouge.vercel.app/" ><b>Lessons Learned</b></a>
+### <a href="https://lessons-learned-rouge.vercel.app/" ><b>Lessons Learned</b></a>
 <a href="https://lessons-learned-rouge.vercel.app/" ></a>
 
 ## Como contribuir no projeto
@@ -36,7 +36,7 @@
 
 ##  Autor
 
-## <a href="https://www.linkedin.com/in/jorge-reis-dev/" ><b>Jorge Wellington.</b></a>
+### <a href="https://www.linkedin.com/in/jorge-reis-dev/" ><b>Jorge Wellington.</b></a>
 <a href="https://www.linkedin.com/in/jorge-reis-dev/" ></a>
 
 
