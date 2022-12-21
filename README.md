@@ -27,7 +27,7 @@
 ### <a href="https://lessons-learned-rouge.vercel.app/" ><b>Lessons Learned</b></a>
 <a href="https://lessons-learned-rouge.vercel.app/" ></a>
 
-## Como contribuir no projeto:
+## Como contribuir no projeto :
   1. Faça um **fork** do projeto;
   2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`;
   3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`;
@@ -40,7 +40,7 @@
  
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-##  Autor
+##  Autor :
 
 ### <a href="https://www.linkedin.com/in/jorge-reis-dev/" ><b>Jorge Wellington</b></a>
 <a href="https://www.linkedin.com/in/jorge-reis-dev/" ></a>
