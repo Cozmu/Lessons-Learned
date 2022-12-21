@@ -34,6 +34,12 @@
   4. Envie as suas alterações: `git push origin my-feature`;
   5. Abra o seu pull-request na página do GitHub.<br><br>
 
+## Licença :
+
+ Esse projeto está sob a licença: 
+ 
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ##  Autor
 
 ### <a href="https://www.linkedin.com/in/jorge-reis-dev/" ><b>Jorge Wellington.</b></a>
