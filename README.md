@@ -1,6 +1,6 @@
 # Seja Bem-vindo ao projeto Lessons Learned!! 👶
 
-### Esse projeto tem como objetivo colocar meus aprendizados de HTML, HTML Semântica, CSS, Seletores e posicionamento em prática. Um projeto simples que me trouxe o primeiro contato com a programação onde construi uma página com conteúdo sobre minha personalidade e lorem (quem sabe sabe hahaha😅).
+#### Esse projeto tem como objetivo colocar meus aprendizados de HTML, HTML Semântica, CSS, Seletores e posicionamento em prática. Um projeto simples que me trouxe o primeiro contato com a programação onde construi uma página com conteúdo sobre minha personalidade e lorem (quem sabe sabe hahaha😅).
 
 <div style="margin-top:15px">
   <img alt="exibição do projeto" src="captura.png">
